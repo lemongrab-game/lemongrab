@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlayerName>
+  <Firstnames>
+    <Firstname>Roger</Firstname>
+    <Firstname>Robert</Firstname>
+    <Firstname>Richard</Firstname>
+    <Firstname>Rene</Firstname>
+    <Firstname>Rebellato</Firstname>
+  </Firstnames>
+  
+  <Lastnames>
+    <Lastname>Manoucho</Lastname>
+    <Lastname>Zmirzo</Lastname>
+    <Lastname>Karouchi</Lastname>
+    <Lastname>Balkany</Lastname>
+    <Lastname>Mechoui</Lastname>
+  </Lastnames>
+  <Lands>
+    <Land>Ramiior</Land>
+    <Land>Retrodor</Land>
+    <Land>Granola</Land>
+  </Lands>
+</PlayerName>
